@@ -1,1 +1,2 @@
 type public_adsprpcd_file, file_type;
+type vendor_proc_camera, fs_type, proc_type;

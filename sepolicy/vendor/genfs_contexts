@@ -1,0 +1,2 @@
+# Camera
+genfscon proc /OIS/OIS_FW_DOWNLOAD_STATE u:object_r:vendor_proc_camera:s0
