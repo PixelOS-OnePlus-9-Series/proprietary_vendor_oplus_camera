@@ -18,3 +18,5 @@ on boot
 
 on property:vendor.usb.product_string=*
     setprop ro.vendor.oplus.market.name ${vendor.usb.product_string}
+    setprop ro.vendor.oplus.market.enname ${vendor.usb.product_string}
+    setprop ro.vendor.oplus.market.watermark ${vendor.usb.product_string}

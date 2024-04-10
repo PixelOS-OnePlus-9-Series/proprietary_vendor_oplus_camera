@@ -33,6 +33,13 @@
 /(odm|vendor/odm)/lib64/libNamaWrapper\.so                                        u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libOGLManager\.so                                         u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libOPAlgoCamFaceBeautyCap\.so                             u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamAIBeautyBodyDetection\.so                     u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamAiBeautyEyeRetouchCn\.so                      u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamAiBeautyFaceRetouchCn\.so                     u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamAiUnifySkin\.so                               u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamFaceRestore\.so                               u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamSinglePortrait\.so                            u:object_r:same_process_hal_file:s0
+/(odm|vendor/odm)/lib64/libOPAlgoCamHybridRaw\.so                                 u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libOPLUS_SCPortrait\.so                                   u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libPerfectColor\.so                                       u:object_r:same_process_hal_file:s0
 /(odm|vendor/odm)/lib64/libPolarrRender\.so                                       u:object_r:same_process_hal_file:s0
