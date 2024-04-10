@@ -219,6 +219,10 @@ PRODUCT_COPY_FILES += \
     vendor/oplus/camera/proprietary/odm/etc/camera/filters_res/filters_res/film_grain_small.bin:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_res/filters_res/film_grain_small.bin \
     vendor/oplus/camera/proprietary/odm/etc/camera/filters_res/filters_res/lut_all_points.png:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_res/filters_res/lut_all_points.png \
     vendor/oplus/camera/proprietary/odm/etc/camera/filters_res/filters_res/overlay_p4_3_weak.png:$(TARGET_COPY_OUT_ODM)/etc/camera/filters_res/filters_res/overlay_p4_3_weak.png \
+    vendor/oplus/camera/proprietary/odm/etc/camera/license_release_fdc.lic:$(TARGET_COPY_OUT_ODM)/etc/camera/license_release_fdc.lic \
+    vendor/oplus/camera/proprietary/odm/etc/camera/model/license.lic:$(TARGET_COPY_OUT_ODM)/etc/camera/model/license.lic \
+    vendor/oplus/camera/proprietary/odm/etc/camera/singleblur/license_release.license:$(TARGET_COPY_OUT_ODM)/etc/camera/singleblur/license_release.license \
+    vendor/oplus/camera/proprietary/odm/etc/camera/singleblur/license_release.lic:$(TARGET_COPY_OUT_ODM)/etc/camera/singleblur/license_release.lic \
     vendor/oplus/camera/proprietary/odm/lib64/libCaptureBokeh.so:$(TARGET_COPY_OUT_ODM)/lib64/libCaptureBokeh.so \
     vendor/oplus/camera/proprietary/odm/lib64/libOPAlgoCamAIBeautyBodyDetection.so:$(TARGET_COPY_OUT_ODM)/lib64/libOPAlgoCamAIBeautyBodyDetection.so \
     vendor/oplus/camera/proprietary/odm/lib64/libOPAlgoCamAiBeautyEyeRetouchCn.so:$(TARGET_COPY_OUT_ODM)/lib64/libOPAlgoCamAiBeautyEyeRetouchCn.so \
